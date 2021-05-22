@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942876956914",
+    "firebase_url": "https://esp8266-project-f2fc7-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-project-f2fc7",
+    "storage_bucket": "esp8266-project-f2fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942876956914:android:40aaad5fa37f6c73b9586b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942876956914-6ipdqpmcge5947d4gpdli77e2vbp1hlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_esp8266",
+            "certificate_hash": "cd7899f63a4c90bacfd804e69c955120f6fab281"
+          }
+        },
+        {
+          "client_id": "942876956914-f15s1njm4uh2u93tg1tf49o6s6psp2l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQYF6R0TzJCogyxpPPsNe4eWwByRJcO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942876956914-f15s1njm4uh2u93tg1tf49o6s6psp2l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
